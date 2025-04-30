@@ -1,6 +1,5 @@
 import React from 'react'
 import TodoItem from '../MyComponents/TodoItem';
-import { hydrateRoot } from 'react-dom/client';
 
 const Todos = (props) => {
   let myStyle = {
